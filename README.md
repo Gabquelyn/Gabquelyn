@@ -4,7 +4,7 @@ I am [Arebamen Gabriel](https://t.co/SFeTzohJir). I am a MERN stack web develope
 
 <br>
 
-- 📚 I'm currently Back-end Typescript and trying to expand my stack tools.
+- 📚 I'm currently learning Typescript and trying to expand my stack tools.
 - 💨 I'm currently working on projects that will increase my proficiency.
 - ✍️ I also aim to develop my technical writing skillset for proper documentation of projects.
 - 🏅 I am currently working on a full stack student project, targeted for students use.

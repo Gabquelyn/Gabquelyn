@@ -1,15 +1,15 @@
 ## Hello there 👋
 
-I am [Arebamen Gabriel](https://t.co/SFeTzohJir). I am a MERN stack web developer.
+I am Arebamen Gabriel. I am a web developer.
 
 <br>
 
-- 📚 I'm currently learning Typescript and trying to expand my stack tools.
-- 💨 I'm currently working on projects that will increase my proficiency.
+- 📚 I'm currently learning web3 and trying to expand my stack.
+- 💨 I aim for progress over perfection.
 - ✍️ I also aim to develop my technical writing skillset for proper documentation of projects.
-- 🏅 I am currently working on a full stack student project, targeted for students use.
-- ⛑️ I mostly work on backend on projects using node and express js, this requires NDA which makes such repositories not mine.
-- ✨ Fun fact: I love sports.
+- 🏅 I was previously a software engineer at Languivi, Turkey.
+- 🏅 I am currently a software engineer at Karsemba, US.
+- ✨ Fun fact: I love sports and music.
 
 
 ## Some Stats
